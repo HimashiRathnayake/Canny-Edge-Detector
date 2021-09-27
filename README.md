@@ -13,4 +13,3 @@ Algorithm Steps:
 4. Non-maxima Suppression
 5. Double Threshold
 
-Programming Language used: Python
